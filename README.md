@@ -6,15 +6,15 @@ levels. Additionally, we assess job market dynamics and skill demand fluctuation
 future-proof career paths. Using SQL databases, Python for data analysis, and Tableau for 
 visualization, we aim to generate data-driven insights and recommendations. 
 ## Table of Contents
-### ● Project Objectives 
-### ● Dataset Overview 
-### ● Technologies & Tools 
-### ● Methodology 
-### ● Key Performance Indicators (KPIs) 
-### ● Project Timeline & Milestones 
-### ● Deliverables 
-### ● Roles & Responsibilities 
-### ● Contact Information
+ ● Project Objectives 
+ ● Dataset Overview 
+ ● Technologies & Tools 
+ ● Methodology 
+ ● Key Performance Indicators (KPIs) 
+ ● Project Timeline & Milestones 
+ ● Deliverables 
+ ● Roles & Responsibilities 
+ ● Contact Information
 ## Dataset Overview
 ### ● Wuzzuf Jobs Dataset:
  o Over 19,000 job postings across various industries. 
@@ -49,7 +49,7 @@ o Provide recommendations on economic resilience through skill acquisition.
 ● Correlation between inflation and employment stability. 
 ● Number of job seekers equipped with future-proof skills. 
 ## Project Timeline & Milestones 
-### Phase   ### Key Activities                      ### Duration
+### Phase    Key Activities                            Duration
 Phase 1 Data collection, cleaning, and preprocessing    2 weeks 
 Phase 2 Data analysis and visualization creation        1 week
 Phase 3 Report compilation and presentation preparation 1 week
