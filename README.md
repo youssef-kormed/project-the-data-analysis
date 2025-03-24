@@ -73,4 +73,4 @@ Contact Information
 LinkedIn 
 Youssef Hussien: www.linkedin.com/in/youssef-mohamed 
 Doaa Reda : https://www.linkedin.com/in/doaa-reda/ 
-Youssef Hegazi: https://www.linkedin.com/in/youssef-hegazi/ 
+Youssef Hegazi: https://www.linkedin.com/in/youssef-hegazi/ 	
